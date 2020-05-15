@@ -1,3 +1,5 @@
+## Ce projet est un vieux projet, il n'est plus maitenu.
+
 # Php Downloader
 PhpDownloader is a php server side script for downloading multiples files easily
 
